@@ -1,0 +1,12 @@
+You can find documentation about the usage and a quick start guide for
+programming in the doc folder of the sourceforge project. All necessary 
+configuration files are contained in the compressed folder of the executable,
+which you can download from the project homepage. 
+
+NOTICE: Currently the application only works for 32-bit systems (maybe a 32 bit
+java version works too), because of the requirement of some native library. If
+possible this requirement will be removed in the future.
+
+If you would like contributing to this project or you have some questions
+concerning the usage feel free to drop me an email:
+christian.kloimuellner@gmail.com
